@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdditionApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="firstNumberPrompt">Enter first number:</string>
+    <string name="secondNumberPrompt">Enter second number:</string>
+    <string name="addButtonPrompt">ADD</string>
+    <string name="resetButtonPrompt">RESET UI</string>
+    <string name="resultPrompt">The sum is:</string>
+    <string name="returnButtonPrompt">RETURN TO MAIN SCREEN</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="first_number">first_number</string>
+    <string name="second_number">second_number</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="productPrompt">The product is:</string>
+    <string name="previousButtonPrompt">RETURN TO PREVIOUS SCREEN</string>
+    <string name="productButtonPrompt">GET PRODUCT</string>
+
+</resources>

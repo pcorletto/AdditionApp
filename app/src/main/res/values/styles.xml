@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="GreenButton">
+        <item name="android:background">#FF2DFF1F</item>
+        <item name="android:textColor">#FF5C38FF</item>
+    </style>
+
+    <style name="RedButton">
+        <item name="android:background">#FFFF200E</item>
+        <item name="android:textColor">#FF5C38FF</item>
+    </style>
+
+
+
+</resources>
